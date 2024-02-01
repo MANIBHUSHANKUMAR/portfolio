@@ -59,9 +59,9 @@
     {
         "name": "WordPress",
         "icon": "https://img.icons8.com/color/48/000000/wordpress.png"
-    } 
+    },
     {
-    "name":"figma",
+        "name":"figma",
         "icon":"https://cdn.iconscout.com/icon/free/png-256/free-figma-2296071-1912030.png"
     }
 ]
